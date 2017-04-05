@@ -1,0 +1,12 @@
+D:\Application\Dropbox\MovieRental\MovieRental.Services\obj\Debug\MovieRental.Services.csprojResolveAssemblyReference.cache
+D:\Application\Dropbox\MovieRental\MovieRental.Services\bin\Debug\MovieRental.Services.dll
+D:\Application\Dropbox\MovieRental\MovieRental.Services\bin\Debug\MovieRental.Services.pdb
+D:\Application\Dropbox\MovieRental\MovieRental.Services\bin\Debug\MovieRental.Data.dll
+D:\Application\Dropbox\MovieRental\MovieRental.Services\bin\Debug\MovieRental.Entities.dll
+D:\Application\Dropbox\MovieRental\MovieRental.Services\bin\Debug\EntityFramework.dll
+D:\Application\Dropbox\MovieRental\MovieRental.Services\bin\Debug\MovieRental.Data.pdb
+D:\Application\Dropbox\MovieRental\MovieRental.Services\bin\Debug\MovieRental.Entities.pdb
+D:\Application\Dropbox\MovieRental\MovieRental.Services\bin\Debug\EntityFramework.xml
+D:\Application\Dropbox\MovieRental\MovieRental.Services\obj\Debug\MovieRental.Services.dll
+D:\Application\Dropbox\MovieRental\MovieRental.Services\obj\Debug\MovieRental.Services.pdb
+D:\Application\Dropbox\MovieRental\MovieRental.Services\bin\Debug\MockData.dll

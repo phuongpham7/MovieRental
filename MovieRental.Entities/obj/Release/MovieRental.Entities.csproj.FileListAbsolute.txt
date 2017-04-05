@@ -1,0 +1,6 @@
+D:\Application\Dropbox\MovieRental\MovieRental.Entities\bin\Release\MovieRental.Entities.dll.config
+D:\Application\Dropbox\MovieRental\MovieRental.Entities\bin\Release\MovieRental.Entities.dll
+D:\Application\Dropbox\MovieRental\MovieRental.Entities\bin\Release\MovieRental.Entities.pdb
+D:\Application\Dropbox\MovieRental\MovieRental.Entities\obj\Release\MovieRental.Entities.csprojResolveAssemblyReference.cache
+D:\Application\Dropbox\MovieRental\MovieRental.Entities\obj\Release\MovieRental.Entities.dll
+D:\Application\Dropbox\MovieRental\MovieRental.Entities\obj\Release\MovieRental.Entities.pdb

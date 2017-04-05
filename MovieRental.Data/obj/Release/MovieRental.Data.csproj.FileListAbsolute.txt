@@ -1,0 +1,15 @@
+D:\Application\Dropbox\MovieRental\MovieRental.Data\bin\Release\MovieRental.Data.dll.config
+D:\Application\Dropbox\MovieRental\MovieRental.Data\bin\Release\MovieRental.Data.dll
+D:\Application\Dropbox\MovieRental\MovieRental.Data\bin\Release\MovieRental.Data.pdb
+D:\Application\Dropbox\MovieRental\MovieRental.Data\bin\Release\EntityFramework.dll
+D:\Application\Dropbox\MovieRental\MovieRental.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\Application\Dropbox\MovieRental\MovieRental.Data\bin\Release\MockData.dll
+D:\Application\Dropbox\MovieRental\MovieRental.Data\bin\Release\MovieRental.Entities.dll
+D:\Application\Dropbox\MovieRental\MovieRental.Data\bin\Release\MovieRental.Entities.pdb
+D:\Application\Dropbox\MovieRental\MovieRental.Data\bin\Release\EntityFramework.xml
+D:\Application\Dropbox\MovieRental\MovieRental.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\Application\Dropbox\MovieRental\MovieRental.Data\obj\Release\MovieRental.Data.csprojResolveAssemblyReference.cache
+D:\Application\Dropbox\MovieRental\MovieRental.Data\obj\Release\MovieRental.Data.Migrations.initial_migration.resources
+D:\Application\Dropbox\MovieRental\MovieRental.Data\obj\Release\MovieRental.Data.csproj.GenerateResource.Cache
+D:\Application\Dropbox\MovieRental\MovieRental.Data\obj\Release\MovieRental.Data.dll
+D:\Application\Dropbox\MovieRental\MovieRental.Data\obj\Release\MovieRental.Data.pdb

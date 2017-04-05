@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MovieRental-Web.config Connection String" description="MovieRental Connection String used in web.config by the application to access the database." defaultValue="Data Source=movierental.cc69rfgsy83u.us-west-2.rds.amazonaws.com;Database=MovieRental;User Id=phuongpham;Password=password;Connection Timeout=300;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Application\\Dropbox\\MovieRental\\MovieRental\.Web\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MovieRental']/@connectionString" />
+  </parameter>
+</parameters>

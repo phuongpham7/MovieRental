@@ -1,0 +1,5 @@
+D:\Application\Dropbox\MovieRental\MovieRental.Entities\bin\Debug\MovieRental.Entities.dll
+D:\Application\Dropbox\MovieRental\MovieRental.Entities\bin\Debug\MovieRental.Entities.pdb
+D:\Application\Dropbox\MovieRental\MovieRental.Entities\obj\Debug\MovieRental.Entities.dll
+D:\Application\Dropbox\MovieRental\MovieRental.Entities\obj\Debug\MovieRental.Entities.pdb
+D:\Application\Dropbox\MovieRental\MovieRental.Entities\bin\Debug\MovieRental.Entities.dll.config

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="MovieRentalWeb20170131092557" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Application\\Dropbox\\MovieRental\\MovieRental\.Web\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Application\\Dropbox\\MovieRental\\MovieRental\.Web\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="MovieRental-Web.config Connection String" description="" value="Data Source=phuongpham7.database.windows.net;Initial Catalog=MovieRental;User ID=phuongpham;Password=P@ssword!23;Connect Timeout=180" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Application\\Dropbox\\MovieRental\\MovieRental\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MovieRental']/@connectionString" />
+  </parameter>
+</parameters>
